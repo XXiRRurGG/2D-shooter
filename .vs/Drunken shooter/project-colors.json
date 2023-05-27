@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7df1dbe8-b3a1-d1f9-0b4a-4254d3e9df2d": {
+      "ProjectGuid": "7df1dbe8-b3a1-d1f9-0b4a-4254d3e9df2d",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "65c40f7e-1d39-de0f-7212-686b0e31f8f0": {
+      "ProjectGuid": "65c40f7e-1d39-de0f-7212-686b0e31f8f0",
+      "DisplayName": "AstarPathfindingProject",
+      "ColorIndex": 1
+    },
+    "bd4ae58c-647b-5394-1abe-369c86ac4ca1": {
+      "ProjectGuid": "bd4ae58c-647b-5394-1abe-369c86ac4ca1",
+      "DisplayName": "AstarPathfindingProjectEditor",
+      "ColorIndex": 2
+    },
+    "a6a1801b-99ad-4995-7d21-3fa45eb40c45": {
+      "ProjectGuid": "a6a1801b-99ad-4995-7d21-3fa45eb40c45",
+      "DisplayName": "PackageToolsEditor",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
